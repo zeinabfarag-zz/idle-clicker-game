@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/idle-clicker-game/static/js/main.1a1b1407.chunk.js",
+    "main.js.map": "/idle-clicker-game/static/js/main.1a1b1407.chunk.js.map",
+    "runtime-main.js": "/idle-clicker-game/static/js/runtime-main.02723544.js",
+    "runtime-main.js.map": "/idle-clicker-game/static/js/runtime-main.02723544.js.map",
+    "static/js/2.e3380524.chunk.js": "/idle-clicker-game/static/js/2.e3380524.chunk.js",
+    "static/js/2.e3380524.chunk.js.map": "/idle-clicker-game/static/js/2.e3380524.chunk.js.map",
+    "index.html": "/idle-clicker-game/index.html",
+    "precache-manifest.64eb5dbb1d55b91cf2aa3906b568a793.js": "/idle-clicker-game/precache-manifest.64eb5dbb1d55b91cf2aa3906b568a793.js",
+    "service-worker.js": "/idle-clicker-game/service-worker.js",
+    "static/js/2.e3380524.chunk.js.LICENSE.txt": "/idle-clicker-game/static/js/2.e3380524.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02723544.js",
+    "static/js/2.e3380524.chunk.js",
+    "static/js/main.1a1b1407.chunk.js"
+  ]
+}
