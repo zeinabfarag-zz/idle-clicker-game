@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/idle-clicker-game/precache-manifest.64eb5dbb1d55b91cf2aa3906b568a793.js"
+  "/idle-clicker-game/precache-manifest.0131380e9611ba897e3e33c90aae4042.js"
 );
 
 self.addEventListener('message', (event) => {

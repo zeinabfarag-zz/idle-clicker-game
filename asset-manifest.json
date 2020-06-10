@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.js": "/idle-clicker-game/static/js/main.1a1b1407.chunk.js",
-    "main.js.map": "/idle-clicker-game/static/js/main.1a1b1407.chunk.js.map",
+    "main.css": "/idle-clicker-game/static/css/main.73cd469f.chunk.css",
+    "main.js": "/idle-clicker-game/static/js/main.2c58086c.chunk.js",
+    "main.js.map": "/idle-clicker-game/static/js/main.2c58086c.chunk.js.map",
     "runtime-main.js": "/idle-clicker-game/static/js/runtime-main.02723544.js",
     "runtime-main.js.map": "/idle-clicker-game/static/js/runtime-main.02723544.js.map",
-    "static/js/2.e3380524.chunk.js": "/idle-clicker-game/static/js/2.e3380524.chunk.js",
-    "static/js/2.e3380524.chunk.js.map": "/idle-clicker-game/static/js/2.e3380524.chunk.js.map",
+    "static/js/2.4fe490f9.chunk.js": "/idle-clicker-game/static/js/2.4fe490f9.chunk.js",
+    "static/js/2.4fe490f9.chunk.js.map": "/idle-clicker-game/static/js/2.4fe490f9.chunk.js.map",
     "index.html": "/idle-clicker-game/index.html",
-    "precache-manifest.64eb5dbb1d55b91cf2aa3906b568a793.js": "/idle-clicker-game/precache-manifest.64eb5dbb1d55b91cf2aa3906b568a793.js",
+    "precache-manifest.0131380e9611ba897e3e33c90aae4042.js": "/idle-clicker-game/precache-manifest.0131380e9611ba897e3e33c90aae4042.js",
     "service-worker.js": "/idle-clicker-game/service-worker.js",
-    "static/js/2.e3380524.chunk.js.LICENSE.txt": "/idle-clicker-game/static/js/2.e3380524.chunk.js.LICENSE.txt"
+    "static/css/main.73cd469f.chunk.css.map": "/idle-clicker-game/static/css/main.73cd469f.chunk.css.map",
+    "static/js/2.4fe490f9.chunk.js.LICENSE.txt": "/idle-clicker-game/static/js/2.4fe490f9.chunk.js.LICENSE.txt",
+    "static/media/background.jpg": "/idle-clicker-game/static/media/background.fb3cf2fc.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.02723544.js",
-    "static/js/2.e3380524.chunk.js",
-    "static/js/main.1a1b1407.chunk.js"
+    "static/js/2.4fe490f9.chunk.js",
+    "static/css/main.73cd469f.chunk.css",
+    "static/js/main.2c58086c.chunk.js"
   ]
 }
