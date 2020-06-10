@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import Clicker from "./Clicker";
 import "./App.css";
-import background from "./background.jpg";
+import background from "./images/background.jpg";
 
 function App() {
   const [start, setStart] = useState(false);

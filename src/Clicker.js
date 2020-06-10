@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import cookie from "./cookie.png";
+import cookie from "./images/cookie.png";
 
 function Clicker(props) {
   const [left, setLeft] = useState("50%");
